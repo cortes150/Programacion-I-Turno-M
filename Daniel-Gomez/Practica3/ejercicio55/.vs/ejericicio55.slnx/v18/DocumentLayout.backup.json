@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Practica3\\ejericicio55\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6C03A8-A1FB-44E1-AE31-2563A9FF6FD6}|ejericicio55\\ejericicio55.csproj|c:\\users\\admin\\source\\repos\\practica3\\ejericicio55\\ejericicio55\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6C03A8-A1FB-44E1-AE31-2563A9FF6FD6}|ejericicio55\\ejericicio55.csproj|solutionrelative:ejericicio55\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practica3\\ejericicio55\\ejericicio55\\Program.cs",
+              "RelativeDocumentMoniker": "ejericicio55\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practica3\\ejericicio55\\ejericicio55\\Program.cs",
+              "RelativeToolTip": "ejericicio55\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T18:21:24.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

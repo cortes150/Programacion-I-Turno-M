@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ejercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ejercicio20.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ejercicio20.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ejercicio20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\bin\Debug\net10.0\ejercicio20.exe
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\bin\Debug\net10.0\ejercicio20.deps.json
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\bin\Debug\net10.0\ejercicio20.runtimeconfig.json
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\bin\Debug\net10.0\ejercicio20.dll
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\bin\Debug\net10.0\ejercicio20.pdb
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ejercicio20.dll
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\refint\ejercicio20.dll
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ejercicio20.pdb
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ejercicio20.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Practica3\ejercicio20\ejercicio20\obj\Debug\net10.0\ref\ejercicio20.dll

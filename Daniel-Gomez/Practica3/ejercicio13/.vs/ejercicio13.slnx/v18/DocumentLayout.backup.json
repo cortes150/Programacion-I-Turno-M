@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Practica3\\ejercicio13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0601343-CD39-4937-8CAA-0452EE056DE6}|ejercicio13\\ejercicio13.csproj|c:\\users\\admin\\source\\repos\\practica3\\ejercicio13\\ejercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0601343-CD39-4937-8CAA-0452EE056DE6}|ejercicio13\\ejercicio13.csproj|solutionrelative:ejercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Practica3\\ejercicio13\\ejercicio13\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio13\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Practica3\\ejercicio13\\ejercicio13\\Program.cs",
+              "RelativeToolTip": "ejercicio13\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:55:16.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

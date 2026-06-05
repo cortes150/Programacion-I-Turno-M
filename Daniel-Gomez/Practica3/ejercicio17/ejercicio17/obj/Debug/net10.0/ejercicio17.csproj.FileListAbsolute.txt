@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\bin\Debug\net10.0\ejercicio17.exe
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\bin\Debug\net10.0\ejercicio17.deps.json
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\bin\Debug\net10.0\ejercicio17.runtimeconfig.json
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\bin\Debug\net10.0\ejercicio17.dll
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\bin\Debug\net10.0\ejercicio17.pdb
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ejercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ejercicio17.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ejercicio17.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ejercicio17.dll
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\refint\ejercicio17.dll
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ejercicio17.pdb
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ejercicio17.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Practica3\ejercicio17\ejercicio17\obj\Debug\net10.0\ref\ejercicio17.dll
