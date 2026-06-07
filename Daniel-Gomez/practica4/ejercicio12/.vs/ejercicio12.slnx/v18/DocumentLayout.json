@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\practicaciclos\\ejercicio12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F4E9032-81D4-49F9-8F26-D1BD33C527C4}|ejercicio12\\ejercicio12.csproj|c:\\users\\admin\\source\\repos\\practicaciclos\\ejercicio12\\ejercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F4E9032-81D4-49F9-8F26-D1BD33C527C4}|ejercicio12\\ejercicio12.csproj|solutionrelative:ejercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\practicaciclos\\ejercicio12\\ejercicio12\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio12\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\practicaciclos\\ejercicio12\\ejercicio12\\Program.cs",
+              "RelativeToolTip": "ejercicio12\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:11:31.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
